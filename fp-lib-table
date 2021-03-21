@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name G026)(type KiCad)(uri ${KIPRJMOD}/G026.pretty)(options "")(descr ""))
+  (lib (name RaspberryPiPico)(type KiCad)(uri ${KIPRJMOD}/RaspberryPiPico.pretty)(options "")(descr ""))
+)

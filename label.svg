@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="60mm"
+   height="40mm"
+   viewBox="0 0 60 40"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="label.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4631">
+      <stop
+         style="stop-color:#378900;stop-opacity:1"
+         offset="0"
+         id="stop4627" />
+      <stop
+         id="stop4639"
+         offset="0.51135999"
+         style="stop-color:#b8001c;stop-opacity:1" />
+      <stop
+         style="stop-color:#e50039;stop-opacity:1"
+         offset="1"
+         id="stop4629" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4631"
+       id="linearGradient4637"
+       x1="19.135044"
+       y1="245.8551"
+       x2="21.780878"
+       y2="245.8551"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.73844961,0,0,0.2476232,250.9505,-106.90342)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6"
+     inkscape:cx="92.782496"
+     inkscape:cy="68.444808"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="3696"
+     inkscape:window-height="2032"
+     inkscape:window-x="144"
+     inkscape:window-y="54"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-257)">
+    <rect
+       style="fill:#000000;stroke-width:0.17581815"
+       id="rect3784-6"
+       width="26.25923"
+       height="39.522484"
+       x="5.7295909"
+       y="257.32715" />
+    <rect
+       style="fill:#000000;stroke-width:0.0978651"
+       id="rect3784"
+       width="8.8323402"
+       height="36.406483"
+       x="44.55851"
+       y="258.88345" />
+    <rect
+       style="fill:url(#linearGradient4637);fill-opacity:1;stroke-width:0.11314063"
+       id="rect3820"
+       width="33.773083"
+       height="1.0880498"
+       x="259.91708"
+       y="-46.556316"
+       transform="rotate(90)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.90081835px;line-height:1.25;font-family:Dyuthi;-inkscape-font-specification:'Dyuthi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.19752045"
+       x="260.77457"
+       y="-47.222225"
+       id="text3715"
+       transform="rotate(90)"><tspan
+         sodipodi:role="line"
+         id="tspan3713"
+         x="260.77457"
+         y="-47.222225"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.90081835px;font-family:Dyuthi;-inkscape-font-specification:'Dyuthi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.19752045">Picoprobe</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.08008671px;line-height:0.89999998;font-family:'Tlwg Typo';-inkscape-font-specification:'Tlwg Typo, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.10199844;"
+       x="24.479282"
+       y="267.28186"
+       id="text3719"><tspan
+         sodipodi:role="line"
+         id="tspan3721"
+         x="24.479282"
+         y="267.28186"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.08008671px;font-family:'Tlwg Typo';-inkscape-font-specification:'Tlwg Typo, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.10199844;fill:#ffffff;">RX2TX</tspan><tspan
+         sodipodi:role="line"
+         id="tspan3723"
+         x="24.479282"
+         y="270.95395"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.08008671px;font-family:'Tlwg Typo';-inkscape-font-specification:'Tlwg Typo, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.10199844;fill:#ffffff;">TX2RX</tspan><tspan
+         sodipodi:role="line"
+         id="tspan3725"
+         x="24.479282"
+         y="274.62601"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.08008671px;font-family:'Tlwg Typo';-inkscape-font-specification:'Tlwg Typo, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.10199844;fill:#ffffff;">SWDIO</tspan><tspan
+         sodipodi:role="line"
+         id="tspan3727"
+         x="24.479282"
+         y="278.2981"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.08008671px;font-family:'Tlwg Typo';-inkscape-font-specification:'Tlwg Typo, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.10199844;fill:#ffffff;">SWCLK</tspan><tspan
+         sodipodi:role="line"
+         id="tspan3729"
+         x="24.479282"
+         y="281.97018"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.08008671px;font-family:'Tlwg Typo';-inkscape-font-specification:'Tlwg Typo, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.10199844;fill:#ffffff;">GND</tspan><tspan
+         sodipodi:role="line"
+         id="tspan3731"
+         x="24.479282"
+         y="285.64224"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.08008671px;font-family:'Tlwg Typo';-inkscape-font-specification:'Tlwg Typo, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.10199844;fill:#ffffff;">3.3V</tspan><tspan
+         sodipodi:role="line"
+         id="tspan3733"
+         x="24.479282"
+         y="289.31433"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.08008671px;font-family:'Tlwg Typo';-inkscape-font-specification:'Tlwg Typo, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.10199844;fill:#ffffff;">5V</tspan><tspan
+         sodipodi:role="line"
+         id="tspan3735"
+         x="24.479282"
+         y="292.98642"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.08008671px;font-family:'Tlwg Typo';-inkscape-font-specification:'Tlwg Typo, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.10199844;fill:#ffffff;"></tspan></text>
+    <rect
+       id="rect3737"
+       width="10.259974"
+       height="1.1174231"
+       x="7.0020466"
+       y="265.59232"
+       style="stroke-width:0.24186043;fill:#ffffff" />
+    <rect
+       id="rect3737-7"
+       width="10.259974"
+       height="1.1174231"
+       x="7.0020466"
+       y="269.2612"
+       style="stroke-width:0.24186043;fill:#ffffff" />
+    <rect
+       id="rect3737-0"
+       width="10.259974"
+       height="1.1174231"
+       x="7.0020466"
+       y="272.93005"
+       style="stroke-width:0.24186043;fill:#ffffff" />
+    <rect
+       id="rect3737-4"
+       width="10.259974"
+       height="1.1174231"
+       x="7.0020466"
+       y="276.59894"
+       style="stroke-width:0.24186043;fill:#ffffff" />
+    <rect
+       id="rect3737-08"
+       width="10.259974"
+       height="1.1174231"
+       x="7.0020466"
+       y="280.26782"
+       style="stroke-width:0.24186043;fill:#ffffff" />
+    <rect
+       id="rect3737-5"
+       width="10.259974"
+       height="1.1174231"
+       x="7.0020466"
+       y="283.93668"
+       style="stroke-width:0.24186043;fill:#ffffff" />
+    <rect
+       id="rect3737-1"
+       width="10.259974"
+       height="1.1174231"
+       x="7.0020466"
+       y="287.60556"
+       style="stroke-width:0.24186043;fill:#ffffff" />
+  </g>
+</svg>
